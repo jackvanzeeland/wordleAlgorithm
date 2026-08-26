@@ -2,5 +2,5 @@ flask>=3.0
 pandas>=2.0
 matplotlib>=3.8
 seaborn>=0.13
-plotly>=5.20
+plotly>=6.9.0
 requests>=2.31
